@@ -267,7 +267,7 @@ parameters:
   displayName: Application Source Git URL
   description: The Git URL of the application source code
   required: true
-  value: https://github.com/tsrana/php-quotes
+  value: https://github.com/KeerthanSN/Multicontainer
 - name: PASSWORD
   displayName: Database Password
   description: Password to access the database
